@@ -21,4 +21,4 @@ que estos ultimos deben recargarse en las estaciones de recarga.
 ***
 
 
-n juego 2D de naves espaciales - on Godot
+Un juego 2D de naves espaciales - on Godot
