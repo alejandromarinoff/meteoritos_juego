@@ -1,7 +1,7 @@
 # Meteoritos_juego
 
 ***
-Meteoritos en un juego de tipo shot m´up  2D para PC donde debemos controlar
+Meteoritos en un juego de tipo shmup  2D para PC donde debemos controlar
 a nave comandada por N-Pilot para escapar de los enemigos y llegar
 hasta los rele de masa que nos conducen a otras galaxias. Ten cuidado
 con la lluvia de meteoritos, las naves enemigas que custodian las bases,
